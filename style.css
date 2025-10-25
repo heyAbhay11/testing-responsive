@@ -65,12 +65,13 @@ i {
     height: calc(100% - 100px);
     width: 100%;
     display: flex;
+    padding: 1.5rem 2rem;
 }
 
 .left {
     height: 100%;
     width: 50%;
-    padding: 4.5rem 5rem;
+    padding: 4.5rem 0rem;
     position: relative;
 }
 
